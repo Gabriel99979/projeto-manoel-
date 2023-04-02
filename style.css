@@ -18,7 +18,7 @@ body {
 }
 
 .apresentacao {
-    margin-right: 30%;
+    margin-right: 25%;
     margin-left: 30%;
     margin-bottom: 15%;
     padding-top: 13%;
@@ -57,7 +57,7 @@ body {
     text-decoration: none;
     text-align: center;
     border-radius: 16px;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 15px;
     padding: 14px 0;
     font-family: 'Montserrat', sans-serif;
